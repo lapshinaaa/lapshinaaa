@@ -1,4 +1,7 @@
-[![MasterHead](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)](https://vk.com/lapshinanas)
+<p align="center">
+  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="Sublime's custom image"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <h3 align="center">a business informatics HSE student</h3>
@@ -24,4 +27,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lapshinaaa&theme=modern-lilac2)](https://git.io/streak-stats)
 
 ![Anastasiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lapshinaaa&show_icons=true&theme=github_dark)
+
 
