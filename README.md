@@ -27,4 +27,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lapshinaaa&theme=modern-lilac2)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/lapshinaaa/lapshinaaa/blob/output/github-contribution-grid-snake.svg)
