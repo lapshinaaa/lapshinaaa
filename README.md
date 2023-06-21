@@ -1,13 +1,8 @@
-<p align="center">
-  <img src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif" alt="Sublime's custom image"/>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Anastasiia</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Business+Informatics+HSE+Student;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🔭 I’m currently working on [facial expression recognition using neural networks](https://github.com/HSE-asavchenko/face-emotion-recognition)
 
