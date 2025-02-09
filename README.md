@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [facial expression recognition using neural networks](https://github.com/HSE-asavchenko/face-emotion-recognition)
 
-- 🌱 I’m currently learning **C++, fundamentals of Intellectual Data Analysis**
+- 🌱 I’m currently learning **Intellectual Data Analysis**
 
 - 📫 How to reach me **anapluslap@gmail.com // tg: @anapluslap**
 
