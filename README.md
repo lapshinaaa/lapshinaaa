@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=HSE+Graduate+%7C+AI+%26+Data+Science+Enthusiast;&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
 </p>
 
-- 🔭 I’m currently exploring sustainable real-world applications of AI — see my [Springer publication](https://link.springer.com/chapter/10.1007/978-981-96-1206-2_9)  
+- 🔭 I’m currently exploring sustainable real-world applications of AI — see my [Springer Publication](https://link.springer.com/chapter/10.1007/978-981-96-1206-2_9)  
 - 🌱 I’m learning Deep Learning, Recommender Systems, and Applied Machine Learning  
 - 📫 Reach me at aalapshina_2@edu.hse.ru or on Telegram: @anapluslap  
 
